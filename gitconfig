@@ -52,3 +52,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = nat_sv2@icloud.com
+	name = Nathalia Vale
